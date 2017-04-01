@@ -12,5 +12,3 @@ $(document).ready(function(){
     console.log( 'Can you make it say "Go!"?' );
   }
 });
-
-
